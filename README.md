@@ -1,16 +1,45 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdelkader M. Abdelkader</h1>
+<h3 align="center">A passionate NodeJs developer from Alexandria</h3>
+<img align ="right" alt="Coding" width = "400" src ="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<!--
-**AbdeIkader/AbdeIkader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed55714&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed55714" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I’m interested in **Backend Developement**
+- 🌱 I’m currently learning the **NodeJs** & **NestJS**
+- 💬 Ask me about  with JavaScript, and NodeJS, or anything related to web development.
+- 📫 How to reach me email - **abdelrahmanabdelkader2002@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/abdelrahman-abdelkader-259781215/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelrahman-abdelkader-259781215/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Abdo.mohamed3453" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/Abdo.mohamed3453" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abdelrahman.abdelkaderjr/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdelrahman.abdelkaderjr/" height="30" width="40" /></a>
+<a href="https://docs.codewars.com/logo.svg" target="_blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="" height="30" width="30" /></a>
+</p>
+
+### 🛠 &nbsp;Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+    ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node-dot-js)&nbsp;
+    ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+    ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+    ![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
+    ![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat)&nbsp;
+    ![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=json-web-tokens)&nbsp;
+    ![Socket.IO](https://img.shields.io/badge/-Socket.IO-05122A?style=flat&logo=socket-dot-io)&nbsp;
+    ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
+    ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+    ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+    ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
+    <!-- Other existing badges -->
+
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AbdeIkader&theme=radical&show_icons=true&locale=en&layout=compact" alt="AbdeIkader" /></p>
+ 
+
+
+  
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdeIkader&theme=radical&show_icons=true&locale=en" alt="AbdeIkader" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdeIkader&theme=radical" alt="AbdeIkader" /></p>
