@@ -33,6 +33,8 @@
     ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
     ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
     ![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
+    ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+    ![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize)&nbsp;
     ![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat)&nbsp;
     ![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=json-web-tokens)&nbsp;
     ![Socket.IO](https://img.shields.io/badge/-Socket.IO-05122A?style=flat&logo=socket-dot-io)&nbsp;
