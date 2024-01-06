@@ -29,7 +29,7 @@
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
     ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
     ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-    ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node-dot-js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node-dot-js)&nbsp;
     ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
     ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
     ![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
