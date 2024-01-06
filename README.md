@@ -16,13 +16,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abdelrahman-abdelkader-259781215/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelrahman-abdelkader-259781215/" height="30" width="30" /></a>
-<a href="https://www.facebook.com/Abdo.mohamed3453" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/Abdo.mohamed3453" height="30" width="30" /></a>
-<a href="https://www.instagram.com/abdelrahman.abdelkaderjr/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdelrahman.abdelkaderjr/" height="30" width="30" /></a>
-<a href="https://www.codewars.com/users/AbdeIkader" target="_blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="https://docs.codewars.com/logo.svg" height="30" width="30" /></a>
-  <a href="https://dev.to/abdeikader" target="_blank">
-    <img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="Abdelrahman Abdelkader's DEV Profile" height="30" width="30" />
-</a>
+<p align="left">
+    <a href="https://www.linkedin.com/in/abdelrahman-abdelkader-259781215/" target="_blank" style="margin-right: 10px;">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="30" />
+    </a>
+    <a href="https://www.codewars.com/users/AbdeIkader" target="_blank" style="margin-right: 10px;">
+        <img align="center" src="https://docs.codewars.com/logo.svg" alt="Codewars Profile" height="30" width="30" />
+    </a>
+    <a href="https://dev.to/abdeikader" target="_blank" style="margin-right: 10px;">
+        <img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="DEV Profile" height="30" width="40" />
+    </a>
+    <a href="http://discordapp.com/users/793506102607740928" target="_blank" style="margin-right: 10px;">
+        <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord Profile" height="30" width="70" />
+    </a>
+</p>
+
 </p>
 
 ### 🛠 &nbsp;Tech Stack
