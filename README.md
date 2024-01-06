@@ -43,16 +43,14 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
     ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
     ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-    ![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
     ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
     ![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize)&nbsp;
-    ![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat)&nbsp;
-    ![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=json-web-tokens)&nbsp;
     ![Socket.IO](https://img.shields.io/badge/-Socket.IO-05122A?style=flat&logo=socket-dot-io)&nbsp;
-    ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
     ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
     ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
     ![EJS](https://img.shields.io/badge/-EJS-05122A?style=flat&logo=ejs&logoColor=red)&nbsp;
+    ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+
 
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AbdeIkader&theme=radical&show_icons=true&locale=en&layout=compact" alt="AbdeIkader" /></p>
