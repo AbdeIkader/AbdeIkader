@@ -41,6 +41,8 @@
     ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
     ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
     ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
+    ![EJS](https://img.shields.io/badge/-EJS-05122A?style=flat&logo=ejs&logoColor=red)&nbsp;
+
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AbdeIkader&theme=radical&show_icons=true&locale=en&layout=compact" alt="AbdeIkader" /></p>
  
