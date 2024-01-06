@@ -20,6 +20,9 @@
 <a href="https://www.facebook.com/Abdo.mohamed3453" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/Abdo.mohamed3453" height="30" width="40" /></a>
 <a href="https://www.instagram.com/abdelrahman.abdelkaderjr/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdelrahman.abdelkaderjr/" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/AbdeIkader" target="_blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="https://docs.codewars.com/logo.svg" height="30" width="30" /></a>
+  <a href="https://dev.to/abdeikader" target="_blank">
+    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abdelrahman Abdelkader's DEV Profile" height="40" width="40" />
+</a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
