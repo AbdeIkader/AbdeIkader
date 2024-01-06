@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdelkader M. Abdelkader</h1>
-<h3 align="center">A passionate NodeJs developer from Alexandria</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 <img align ="right" alt="Coding" width = "400" src ="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdeIkader&label=Profile%20views&color=0e75b6&style=flat" alt="AbdeIkader" /> </p>
