@@ -27,7 +27,7 @@
         <img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="DEV Profile" height="30" width="40" />
     </a>
     <a href="http://discordapp.com/users/793506102607740928" target="_blank" style="margin-right: 10px;">
-        <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord Profile" height="30" width="70" />
+        <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord Profile" height="30" width="90" />
     </a>
 </p>
 
@@ -45,7 +45,6 @@
     ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
     ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
     ![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize)&nbsp;
-    ![Socket.IO](https://img.shields.io/badge/-Socket.IO-05122A?style=flat&logo=socket-dot-io)&nbsp;
     ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
     ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
     ![EJS](https://img.shields.io/badge/-EJS-05122A?style=flat&logo=ejs&logoColor=red)&nbsp;
