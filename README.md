@@ -33,16 +33,22 @@
 #### 🧩 Odoo & ERP
 ![Odoo](https://img.shields.io/badge/-Odoo-05122A?style=flat&logo=odoo)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 
 #### 🌐 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 
+#### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+
 #### 🗄 Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+
 
 ---
 
